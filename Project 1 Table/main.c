@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main(){ // This for the table You can use this code.
     int n;
     printf("Enter The Table Number\n");
     scanf("%d", &n);
